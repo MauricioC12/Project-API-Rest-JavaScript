@@ -1,0 +1,19 @@
+{
+  "name": "project-api-rest-javascript",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MauricioC12/Project-API-Rest-JavaScript.git"
+  },
+  "author": "Mauricio Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MauricioC12/Project-API-Rest-JavaScript/issues"
+  },
+  "homepage": "https://github.com/MauricioC12/Project-API-Rest-JavaScript#readme",
+  "description": ""
+}
