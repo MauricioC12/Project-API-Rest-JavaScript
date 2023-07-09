@@ -8,7 +8,7 @@ This is a project where I consume a movie API as practice for the Rest API Consu
 
 ## Links!
 
-  - Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-main-62A7Eq78kt
+  - Solution URL: https://mauricioc12.github.io/Project-API-Rest-JavaScript/
   
 ## My process
 
